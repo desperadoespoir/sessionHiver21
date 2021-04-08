@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "All of the tests",
+      "setup": "sudo apt-get install valgrind",
+      "run": "cd test && make alltests",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    }
+  ]
+}
