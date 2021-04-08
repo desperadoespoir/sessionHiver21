@@ -1,0 +1,48 @@
+# Lien : https://udemontreal-my.sharepoint.com/:x:/g/personal/mahdi_zarour_umontreal_ca/ESHLU1kQxq9LhEK02xkInC4B4gelY8ummClIgm7hyinTQA?e=7xexlJ
+# Bareme:
+# les 3 premiers fonctions sont sur 1 point chacune et spirale() et
+# spiraleTournante() sont sur 1.5 points (pour spiraleTournante()
+# 0.5 pt pour la fluidite de l'animation)
+# Les commentaires sont sur 2 points
+# 2 points sont attribue pour le respect des instructions 
+# (format, pas d'appel aux fonctions a la fin du programme, ...)
+
+# Remarques:
+# 1 - Certains etudiants ont fait beaucoup d'efforts mais n'ont pas reussi
+# par manque de direction donc demandez la prochaine fois
+
+def carre(taille):
+    pensize(taille)
+    fd(taille)
+    pensize(2)
+    
+def triangle(base):
+    size = 1
+    for i in range(0, base, 2):
+        pensize(size)
+        fd(1)
+        size += 2
+        
+def ligne(base, taille, n):
+    for _ in range(n):
+        triangle(base)
+        carre(taille)
+        
+def spirale(base, taille, nInit):
+    for i in range(1, nInit+1):
+            ligne(base, taille, i)
+            lt(90)
+            ligne(base, taille, i)
+            lt(90)  
+
+def spiraleTournante(base, taille, nbFormes, vAng):
+    rotation = 0
+    while True:
+        clear()
+        rt(rotation)
+        spirale(base, taille, nbFormes)
+        rotation += vAng
+        ht()
+        sleep(0.01)
+        
+spiraleTournante(15,10,10,2)

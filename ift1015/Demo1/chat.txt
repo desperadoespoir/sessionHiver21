@@ -1,0 +1,171 @@
+14:30:48	 From  Eyrolle Alexandre : le 5
+14:30:52	 From  Marie Antoun : 5
+14:30:52	 From  mohammad taleb : 5
+14:30:52	 From  Bustros Naïka : oui c'est le 5
+14:31:22	 From  Yelegen Garen : moi
+14:31:23	 From  Bustros Naïka : moi
+14:31:24	 From  Korian Melissa : moi
+14:31:25	 From  Ismail El Azhari : moi
+14:31:25	 From  Ferreira Julianne : moi
+14:31:26	 From  flo : moi
+14:31:28	 From  Fatiha Sahmi : moi
+14:31:30	 From  Adama Ousmane Berthé : moi
+14:31:35	 From  Jenny Diep : moi
+14:33:08	 From  Marie Antoun : non
+14:33:12	 From  mohammad taleb : on la fini
+14:33:14	 From  Beaupré Eloïse : on l’a fait
+14:34:18	 From  flo : on s'etait arrete a l'exo 5
+14:35:19	 From  charbel : est ce qu il y a un temps limite?
+14:36:05	 From  Ismail El Azhari : ou est ce qu on peut trouver les exercies
+14:36:24	 From  Ernseau Mompleus : pour les exercices notés on a doit à combien essai?
+14:37:02	 From  Ernseau Mompleus : droit
+14:38:41	 From  Ernseau Mompleus : 16
+14:38:50	 From  Labatte Shaïna : c’est le groupe A ou B?
+14:38:58	 From  Labatte Shaïna : ok merci
+14:39:19	 From  Abdesselam . : on peut accelere?
+14:39:27	 From  Karim Kanj : ouii svpp
+14:39:28	 From  Lisa Pamela Valente : ouiii
+14:39:31	 From  Eyrolle Alexandre : oui
+14:39:32	 From  mohammad taleb : oui
+14:39:32	 From  Fatiha Sahmi : oui
+14:39:32	 From  Wayne Timmons : oui accélérer
+14:39:32	 From  Noémie Arbour : oui
+14:39:33	 From  Yelegen Garen : ouais
+14:39:34	 From  Jenny Diep : yessir
+14:39:35	 From  Chalut William : oui
+14:39:38	 From  Abada Malik : `pour ce sujet oui
+14:39:47	 From  Daniel : oui
+14:40:20	 From  Ernseau Mompleus : 19
+14:40:31	 From  Bustros Naïka : 19
+14:41:15	 From  Marie Antoun : oui
+14:41:20	 From  Fatiha Sahmi : non
+14:41:20	 From  Jenny Diep : yes
+14:41:21	 From  Marie Antoun : moi
+14:41:23	 From  Bustros Naïka : oui
+14:41:25	 From  Wahbi Yassine : non
+14:41:39	 From  Fatiha Sahmi : Faire juste un seul example
+14:42:47	 From  Marie Antoun : 2^3
+14:42:53	 From  Marie Antoun : 1000?
+14:43:15	 From  Lee Sangwoo : 2^3 = 2*2*2=8
+14:43:36	 From  Yelegen Garen : 1010 pour 10?
+14:43:48	 From  charbel : oui
+14:43:53	 From  Marie Antoun : est ce que c'est toujours 4 places seulement?
+14:44:06	 From  charbel : 10111 pour 23
+14:44:11	 From  Lee Sangwoo : 8 en binaire cest 1000
+14:44:43	 From  Karim Kanj : ahhaah charbel
+14:44:48	 From  Karim Kanj : ta dead on speed run
+14:45:36	 From  flo : on met des zeros car on connaissait deja la valeur ?
+14:46:04	 From  Marie Antoun : alors 10 en binaire 1 0 1 0 ?
+14:46:09	 From  flo : merci
+14:46:17	 From  charbel : yes marie
+14:46:25	 From  Fatiha Sahmi : 1010
+14:46:26	 From  mohammad taleb : oui marie
+14:46:38	 From  Marie Antoun : merci :)
+14:46:40	 From  Fatiha Sahmi : 1010
+14:47:50	 From  Marie Antoun : qu'est ce qui détermine le nombre de places ? ici c'est 4 place ,
+14:49:00	 From  Marie Antoun : merci
+14:49:00	 From  Fatiha Sahmi : 10110
+14:49:16	 From  charbel : 4 place peut maximum se render a 15
+14:49:34	 From  charbel : si tu veut representer un nombre plus grand, t ajoute un autre et un autre etc
+14:49:58	 From  Bustros Naïka : 10100?
+14:50:13	 From  Marie Antoun : 16
+14:50:21	 From  mohammad taleb : 1 0 1 1 1
+14:50:23	 From  Marie Antoun : 10111?
+14:50:48	 From  Marie Antoun : j'ai compris :) Merci
+14:50:51	 From  flo : demarche
+14:51:52	 From  Yelegen Garen : est ce on appele ça 5 bit?
+14:52:19	 From  flo : don place =bit ?
+14:52:59	 From  Lisa Pamela Valente : 2 exposant 6
+14:53:03	 From  Bustros Naïka : 6
+14:54:34	 From  Chalut William : 1111010 ?
+14:54:40	 From  Lisa Pamela Valente : ouais
+14:54:42	 From  Noémie Arbour : 1111010
+14:55:12	 From  mohammad taleb : 1 1 1 1 0 1 0
+14:56:38	 From  Ernseau Mompleus : c'est plus facile quand on utilise la méthode de la division
+14:56:56	 From  khaoula : ouiiii
+14:57:06	 From  Wahbi Yassine : oui
+14:57:19	 From  Bustros Naïka : c'est quoi la méthode de la division?
+14:59:08	 From  Chalut William : si vous suivez cours 1215 page 21 du doc systeme de nombre explique la methode de la division
+14:59:34	 From  Noémie Arbour : vas voir le document : Exemples supplémentaires sur l'encodage
+14:59:35	 From  flo : c 'est 7 bits ?
+14:59:47	 From  charbel : est ce qu on va commencer a coder la semaine prochaine?
+15:00:11	 From  Bustros Naïka : ok merci
+15:01:25	 From  Ernseau Mompleus : 128 : 2 = 64 reste 064 : 2 = 32 032 : 2 = 16 016 : 2 = 8 08 : 2 = 4 04 : 2 = 2 02 : 2 = 1 01 : 2 = 0 1
+15:01:43	 From  Ernseau Mompleus : voici un exemple de de la division
+15:06:26	 From  charbel : est ce qu on peut utilizer un for loop si c est dans un examen? ou est ce que les solutions sont strictes?
+15:07:03	 From  flo : les noms tells resultats et autres , on donne les noms qu'on veut pour les donnees ?
+15:15:05	 From  Abada Malik : Oui
+15:15:06	 From  Ismail El Azhari : commet on a trouver la reponse
+15:15:11	 From  charbel : j ai trouvé 8*4+8+2
+15:15:15	 From  Marie Antoun : (8+3)*4-2
+15:16:08	 From  Bustros Naïka : paranthese
+15:16:09	 From  Wahbi Yassine : ()
+15:16:30	 From  charbel : le moins n a pas de parenthese
+15:16:58	 From  charbel : aah
+15:17:00	 From  Daniel : la parenthèse 3+4 n’est pas redondant?
+15:17:01	 From  Abada Malik : o
+15:17:23	 From  Abada Malik : non
+15:17:31	 From  charbel : on va apprendre a etre zen
+15:17:35	 From  Chalut William : non Daniel sinon on multiplie 6*3 au lieu de 6*7
+15:17:43	 From  Daniel : oui oui excuse
+15:17:43	 From  Bustros Naïka : non sinon ca va applique le 3 a la premiere paranthese
+15:17:46	 From  Daniel : merci
+15:18:41	 From  charbel : ou temperature_de_chambre?
+15:19:14	 From  Bustros Naïka : qu'est-ce qui arrive si on ne met pas de majuscule ou de _?
+15:19:15	 From  flo : ceci s'appliuqe quand on ecrit une phrase?
+15:19:38	 From  charbel : c est estetiqement pas jolie
+15:19:57	 From  Daniel : PEP8:)
+15:20:16	 From  Bustros Naïka : mas est-ce que ca affecte le code ou c'est juste esthétique?
+15:20:45	 From  Bustros Naïka : non mais je veux dire temperaturedechambre ecrit comme ca?
+15:20:46	 From  charbel : temperaturedechambre va marcher mais c est difficile a lire
+15:20:51	 From  Bustros Naïka : oh okok
+15:21:14	 From  Bustros Naïka : merci
+15:21:46	 From  Daniel : https://www.python.org/dev/peps/pep-0008/
+15:22:19	 From  flo : oui
+15:42:57	 From  Wahbi Yassine : oui
+15:46:43	 From  Gnaga Dogbeda Georges   to   flo(Direct Message) : https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python
+15:46:58	 From  flo   to   Gnaga Dogbeda Georges(Direct Message) : merci !
+15:48:43	 From  Wahbi Yassine : c'est partagé ou ? liens
+15:48:57	 From  Gnaga Dogbeda Georges : https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python
+15:49:05	 From  Wahbi Yassine : merci
+15:49:33	 From  flo : je crois les labs et TP sont combines ...
+15:50:48	 From  Marie Antoun : merci
+15:51:22	 From  flo : les exos supplementaires sont a faire individuellement.
+15:51:24	 From  flo : ?
+15:51:53	 From  Fatiha Sahmi : Est ce que il y a d’autres exercices à faire maintenant ou le cour est fini pour aujourd’hui
+15:52:04	 From  flo : desole , ce sont des exemples
+15:53:43	 From  Gnaga Dogbeda Georges : https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python
+15:55:36	 From  Marie Antoun : est que le TP est fini ?
+15:55:59	 From  Ernseau Mompleus : la resolution de l'exercice 7, est-ce qu'on va l'avoir sur stadium?
+15:59:24	 From  Marie Antoun : bonjour, j'ai un probeme avec mon micro apparement :)
+15:59:35	 From  Gnaga Dogbeda Georges : oui oui
+15:59:45	 From  Gnaga Dogbeda Georges : je t'ai mute
+15:59:54	 From  Marie Antoun : je voudrais vous demander une question hors le cours , peut etre vous pouvez m;aider
+16:00:10	 From  Gnaga Dogbeda Georges : ok
+16:00:21	 From  Marie Antoun : je suis en maitrise bioinformatique et je veux installer Linux
+16:00:43	 From  Gnaga Dogbeda Georges : oui
+16:00:49	 From  Marie Antoun : est ce que vous avez une idee quelle version ?
+16:01:36	 From  Marie Antoun : si non pas de probleme , je veux juste votre avis si vous avez l'information
+16:01:52	 From  Marie Antoun : il y en plein d'avis sur internet
+16:02:15	 From  Marie Antoun : peut etre vous connaissez quelqu'un en bio info
+16:02:28	 From  othman   to   Gnaga Dogbeda Georges(Direct Message) : Pour l exercice 8 : est ce qu il ya un code qui peut résoudre le problème?
+16:02:47	 From  Marie Antoun : je m'excuse je ne vous entend pas
+16:03:13	 From  Marie Antoun : ah maintenant je vous entends
+16:03:42	 From  Marie Antoun : j'ai planife' un duel boost
+16:03:46	 From  Marie Antoun : Merci
+16:04:05	 From  Marie Antoun : non
+16:04:31	 From  Marie Antoun : excellent merci
+16:04:40	 From  Marie Antoun : je m'excuse pour les mic
+16:04:44	 From  Marie Antoun : bonne soiree
+16:05:47	 From  Rojas Patricia : Quel est le language de IFT 1025?
+16:05:52	 From  Rojas Patricia : apres cet course?
+16:06:23	 From  Rojas Patricia : je necoute pas ton reponse ...le audio est off
+16:06:31	 From  othman   to   Gnaga Dogbeda Georges(Direct Message) : j  entend rien
+16:06:36	 From  Rojas Patricia : merci
+16:07:03	 From  Rojas Patricia : oh
+16:07:14	 From  Rojas Patricia : est ce que Python est oriente a obejct?
+16:08:16	 From  Rojas Patricia : merci beaucoup
+16:08:24	 From  Rojas Patricia : tres gentile
+16:08:28	 From  Rojas Patricia : :)
+16:08:39	 From  Gnaga Dogbeda Georges   to   othman(Direct Message) : :)
+16:08:50	 From  Rojas Patricia : bon soirée
